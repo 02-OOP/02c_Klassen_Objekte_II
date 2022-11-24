@@ -10,6 +10,7 @@ public class App {
         output(cat.getAge());
         output(cat.getAge());
         output(cat.getAge());
+        output(cat.getAge());
     
         output("------------------------");
 
